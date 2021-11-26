@@ -12,4 +12,9 @@ a{
 }
  .header{
      display:grid;
+     justify-content: space-between;
+ }
+
+ .menu{
+     margin-right: 30px;
  }
