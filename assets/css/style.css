@@ -10,3 +10,6 @@ ul{
 a{
     text-decoration: none;
 }
+ .header{
+     display:grid;
+ }
