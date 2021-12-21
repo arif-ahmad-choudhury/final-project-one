@@ -27,5 +27,5 @@ a{
   color:aquamarine;
  }
 .about-area{
-    
+    display: flex;
 }
