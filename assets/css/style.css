@@ -27,9 +27,13 @@ a{
   color:aquamarine;
  }
 .about-area{
-    display: flex;
+    display:grid;
     justify-content: center;
 }
 .service-area{
     display: flex;
+}
+.service-area{
+    display: flex;
+
 }
