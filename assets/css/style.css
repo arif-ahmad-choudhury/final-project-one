@@ -32,6 +32,7 @@ a{
 }
 .service-area{
     display: grid;
+    justify-content: center;
 }
 .contact-area{
     display: grid;
