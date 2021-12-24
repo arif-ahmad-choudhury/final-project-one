@@ -28,6 +28,7 @@ a{
  }
 .about-area{
     display: flex;
+    justify-content: center;
 }
 .service-area{
     display: flex;
