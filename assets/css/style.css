@@ -42,4 +42,5 @@ a{
 .contact-area{
     display: grid;
     justify-content: center;
+    margin:20px;
 }
