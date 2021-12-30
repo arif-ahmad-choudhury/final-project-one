@@ -37,6 +37,7 @@ a{
 .blog-area{
     display: grid;
     justify-content: center;
+    margin:20px;
 }
 .contact-area{
     display: grid;
